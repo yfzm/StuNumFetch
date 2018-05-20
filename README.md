@@ -10,7 +10,7 @@ Before using this program, you should make sure `Tkinter` is installed correctly
 
 ## The format of data
 
-Please save your data as `example.csv`
+Please save your data as `StudNum.csv`
 
 The `csv` should contain 4 fields: MAJOR, ID, NAME, REMARK
 
